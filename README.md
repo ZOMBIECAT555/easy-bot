@@ -1,3 +1,2 @@
-###EASY CHAT BOT 
----HOW USE
----
+### EASY CHAT BOT 
+--- HOW USE ---
